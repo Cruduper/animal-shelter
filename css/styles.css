@@ -1,8 +1,30 @@
 .column {
   float: left;
   width: 300px;
+  border: 2px solid black;
+  margin: 5px;
 }
 
 img {
   width: 300px;
+}
+
+body {
+ color: brown;
+ font-style: italic;
+}
+
+div {
+  padding: 10px;
+}
+
+h3 {
+  color: purple;
+  font-style: normal;
+}
+
+h1 {
+  color: black;
+  font-style: normal;
+  text-align: center;
 }
