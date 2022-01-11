@@ -6,7 +6,7 @@
 }
 
 img {
-  width: 300px;
+  width: 275px;
 }
 
 body {
@@ -27,4 +27,14 @@ h1 {
   color: black;
   font-style: normal;
   text-align: center;
+}
+
+.dark-mode  {
+  background-color: #444;
+  color: lightgrey;
+}
+
+.highlight {
+  background-color: yellow;
+  border: 2px solid red;
 }
